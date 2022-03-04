@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @taggedtany
+- 👀 I’m interested in C++ coding and refactoring
